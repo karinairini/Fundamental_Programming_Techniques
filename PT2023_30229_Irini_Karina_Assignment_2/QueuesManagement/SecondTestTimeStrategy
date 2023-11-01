@@ -1,0 +1,318 @@
+Time 0
+Waiting clients: (ID=7, arrivalTime=3, serviceTime=3); (ID=8, arrivalTime=4, serviceTime=5); (ID=47, arrivalTime=4, serviceTime=4); (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 1
+Waiting clients: (ID=7, arrivalTime=3, serviceTime=3); (ID=8, arrivalTime=4, serviceTime=5); (ID=47, arrivalTime=4, serviceTime=4); (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 2
+Waiting clients: (ID=7, arrivalTime=3, serviceTime=3); (ID=8, arrivalTime=4, serviceTime=5); (ID=47, arrivalTime=4, serviceTime=4); (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 3
+Waiting clients: (ID=8, arrivalTime=4, serviceTime=5); (ID=47, arrivalTime=4, serviceTime=4); (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=7, arrivalTime=3, serviceTime=3);
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 4
+Waiting clients: (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=7, arrivalTime=3, serviceTime=2);
+Queue 2: (ID=8, arrivalTime=4, serviceTime=5);
+Queue 3: (ID=47, arrivalTime=4, serviceTime=4);
+Queue 4: closed
+Queue 5: closed
+Time 5
+Waiting clients: (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=7, arrivalTime=3, serviceTime=1);
+Queue 2: (ID=8, arrivalTime=4, serviceTime=4);
+Queue 3: (ID=47, arrivalTime=4, serviceTime=3);
+Queue 4: closed
+Queue 5: closed
+Time 6
+Waiting clients: (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: closed
+Queue 2: (ID=8, arrivalTime=4, serviceTime=3);
+Queue 3: (ID=47, arrivalTime=4, serviceTime=2);
+Queue 4: closed
+Queue 5: closed
+Time 7
+Waiting clients: (ID=13, arrivalTime=8, serviceTime=5); (ID=44, arrivalTime=8, serviceTime=4); (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: closed
+Queue 2: (ID=8, arrivalTime=4, serviceTime=2);
+Queue 3: (ID=47, arrivalTime=4, serviceTime=1);
+Queue 4: closed
+Queue 5: closed
+Time 8
+Waiting clients: (ID=42, arrivalTime=9, serviceTime=5); (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=13, arrivalTime=8, serviceTime=5);
+Queue 2: (ID=8, arrivalTime=4, serviceTime=1);
+Queue 3: (ID=44, arrivalTime=8, serviceTime=4);
+Queue 4: closed
+Queue 5: closed
+Time 9
+Waiting clients: (ID=17, arrivalTime=10, serviceTime=5); (ID=39, arrivalTime=10, serviceTime=6); (ID=40, arrivalTime=10, serviceTime=6); (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=13, arrivalTime=8, serviceTime=4);
+Queue 2: (ID=42, arrivalTime=9, serviceTime=5);
+Queue 3: (ID=44, arrivalTime=8, serviceTime=3);
+Queue 4: closed
+Queue 5: closed
+Time 10
+Waiting clients: (ID=45, arrivalTime=11, serviceTime=2); (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=13, arrivalTime=8, serviceTime=3);
+Queue 2: (ID=42, arrivalTime=9, serviceTime=4);
+Queue 3: (ID=44, arrivalTime=8, serviceTime=2); (ID=40, arrivalTime=10, serviceTime=6);
+Queue 4: (ID=17, arrivalTime=10, serviceTime=5);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=6);
+Time 11
+Waiting clients: (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=13, arrivalTime=8, serviceTime=2); (ID=45, arrivalTime=11, serviceTime=2);
+Queue 2: (ID=42, arrivalTime=9, serviceTime=3);
+Queue 3: (ID=44, arrivalTime=8, serviceTime=1); (ID=40, arrivalTime=10, serviceTime=6);
+Queue 4: (ID=17, arrivalTime=10, serviceTime=4);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=5);
+Time 12
+Waiting clients: (ID=20, arrivalTime=13, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2); (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=13, arrivalTime=8, serviceTime=1); (ID=45, arrivalTime=11, serviceTime=2);
+Queue 2: (ID=42, arrivalTime=9, serviceTime=2);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=6);
+Queue 4: (ID=17, arrivalTime=10, serviceTime=3);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=4);
+Time 13
+Waiting clients: (ID=38, arrivalTime=14, serviceTime=6); (ID=43, arrivalTime=14, serviceTime=5); (ID=48, arrivalTime=14, serviceTime=6); (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=45, arrivalTime=11, serviceTime=2); (ID=29, arrivalTime=13, serviceTime=2);
+Queue 2: (ID=42, arrivalTime=9, serviceTime=1); (ID=20, arrivalTime=13, serviceTime=1);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=5);
+Queue 4: (ID=17, arrivalTime=10, serviceTime=2);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=3);
+Time 14
+Waiting clients: (ID=35, arrivalTime=15, serviceTime=3); (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=45, arrivalTime=11, serviceTime=1); (ID=29, arrivalTime=13, serviceTime=2);
+Queue 2: (ID=20, arrivalTime=13, serviceTime=1); (ID=38, arrivalTime=14, serviceTime=6);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=4);
+Queue 4: (ID=17, arrivalTime=10, serviceTime=1); (ID=43, arrivalTime=14, serviceTime=5);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=2); (ID=48, arrivalTime=14, serviceTime=6);
+Time 15
+Waiting clients: (ID=2, arrivalTime=16, serviceTime=4); (ID=14, arrivalTime=16, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4); (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=29, arrivalTime=13, serviceTime=2); (ID=35, arrivalTime=15, serviceTime=3);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=6);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=3);
+Queue 4: (ID=43, arrivalTime=14, serviceTime=5);
+Queue 5: (ID=39, arrivalTime=10, serviceTime=1); (ID=48, arrivalTime=14, serviceTime=6);
+Time 16
+Waiting clients: (ID=3, arrivalTime=17, serviceTime=5); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=29, arrivalTime=13, serviceTime=1); (ID=35, arrivalTime=15, serviceTime=3); (ID=14, arrivalTime=16, serviceTime=1);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=5);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=2); (ID=2, arrivalTime=16, serviceTime=4);
+Queue 4: (ID=43, arrivalTime=14, serviceTime=4); (ID=50, arrivalTime=16, serviceTime=4);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=6);
+Time 17
+Waiting clients: (ID=21, arrivalTime=18, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5); (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=35, arrivalTime=15, serviceTime=3); (ID=14, arrivalTime=16, serviceTime=1); (ID=3, arrivalTime=17, serviceTime=5);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=4); (ID=22, arrivalTime=17, serviceTime=1);
+Queue 3: (ID=40, arrivalTime=10, serviceTime=1); (ID=2, arrivalTime=16, serviceTime=4);
+Queue 4: (ID=43, arrivalTime=14, serviceTime=3); (ID=50, arrivalTime=16, serviceTime=4);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=5);
+Time 18
+Waiting clients: (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=35, arrivalTime=15, serviceTime=2); (ID=14, arrivalTime=16, serviceTime=1); (ID=3, arrivalTime=17, serviceTime=5);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=3); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1);
+Queue 3: (ID=2, arrivalTime=16, serviceTime=4); (ID=41, arrivalTime=18, serviceTime=5);
+Queue 4: (ID=43, arrivalTime=14, serviceTime=2); (ID=50, arrivalTime=16, serviceTime=4);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=4);
+Time 19
+Waiting clients: (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=35, arrivalTime=15, serviceTime=1); (ID=14, arrivalTime=16, serviceTime=1); (ID=3, arrivalTime=17, serviceTime=5);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=2); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1);
+Queue 3: (ID=2, arrivalTime=16, serviceTime=3); (ID=41, arrivalTime=18, serviceTime=5);
+Queue 4: (ID=43, arrivalTime=14, serviceTime=1); (ID=50, arrivalTime=16, serviceTime=4);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=3);
+Time 20
+Waiting clients: (ID=26, arrivalTime=21, serviceTime=2); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=14, arrivalTime=16, serviceTime=1); (ID=3, arrivalTime=17, serviceTime=5);
+Queue 2: (ID=38, arrivalTime=14, serviceTime=1); (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1);
+Queue 3: (ID=2, arrivalTime=16, serviceTime=2); (ID=41, arrivalTime=18, serviceTime=5);
+Queue 4: (ID=50, arrivalTime=16, serviceTime=4);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=2);
+Time 21
+Waiting clients: (ID=5, arrivalTime=22, serviceTime=6); (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=3, arrivalTime=17, serviceTime=5);
+Queue 2: (ID=22, arrivalTime=17, serviceTime=1); (ID=21, arrivalTime=18, serviceTime=1); (ID=33, arrivalTime=21, serviceTime=1);
+Queue 3: (ID=2, arrivalTime=16, serviceTime=1); (ID=41, arrivalTime=18, serviceTime=5);
+Queue 4: (ID=50, arrivalTime=16, serviceTime=3);
+Queue 5: (ID=48, arrivalTime=14, serviceTime=1); (ID=26, arrivalTime=21, serviceTime=2);
+Time 22
+Waiting clients: (ID=16, arrivalTime=23, serviceTime=5); (ID=32, arrivalTime=23, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6); (ID=46, arrivalTime=23, serviceTime=4); (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=3, arrivalTime=17, serviceTime=4);
+Queue 2: (ID=21, arrivalTime=18, serviceTime=1); (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6);
+Queue 3: (ID=41, arrivalTime=18, serviceTime=5);
+Queue 4: (ID=50, arrivalTime=16, serviceTime=2);
+Queue 5: (ID=26, arrivalTime=21, serviceTime=2);
+Time 23
+Waiting clients: (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=3, arrivalTime=17, serviceTime=3); (ID=34, arrivalTime=23, serviceTime=6);
+Queue 2: (ID=33, arrivalTime=21, serviceTime=1); (ID=5, arrivalTime=22, serviceTime=6);
+Queue 3: (ID=41, arrivalTime=18, serviceTime=4); (ID=46, arrivalTime=23, serviceTime=4);
+Queue 4: (ID=50, arrivalTime=16, serviceTime=1); (ID=16, arrivalTime=23, serviceTime=5);
+Queue 5: (ID=26, arrivalTime=21, serviceTime=1); (ID=32, arrivalTime=23, serviceTime=3);
+Time 24
+Waiting clients: (ID=9, arrivalTime=25, serviceTime=5); (ID=10, arrivalTime=25, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=3, arrivalTime=17, serviceTime=2); (ID=34, arrivalTime=23, serviceTime=6);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=6);
+Queue 3: (ID=41, arrivalTime=18, serviceTime=3); (ID=46, arrivalTime=23, serviceTime=4);
+Queue 4: (ID=16, arrivalTime=23, serviceTime=5);
+Queue 5: (ID=32, arrivalTime=23, serviceTime=3);
+Time 25
+Waiting clients: (ID=19, arrivalTime=26, serviceTime=4); (ID=37, arrivalTime=26, serviceTime=4); (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=3, arrivalTime=17, serviceTime=1); (ID=34, arrivalTime=23, serviceTime=6);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=5);
+Queue 3: (ID=41, arrivalTime=18, serviceTime=2); (ID=46, arrivalTime=23, serviceTime=4);
+Queue 4: (ID=16, arrivalTime=23, serviceTime=4); (ID=10, arrivalTime=25, serviceTime=1);
+Queue 5: (ID=32, arrivalTime=23, serviceTime=2); (ID=9, arrivalTime=25, serviceTime=5);
+Time 26
+Waiting clients: (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=6);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=4); (ID=19, arrivalTime=26, serviceTime=4);
+Queue 3: (ID=41, arrivalTime=18, serviceTime=1); (ID=46, arrivalTime=23, serviceTime=4);
+Queue 4: (ID=16, arrivalTime=23, serviceTime=3); (ID=10, arrivalTime=25, serviceTime=1); (ID=37, arrivalTime=26, serviceTime=4);
+Queue 5: (ID=32, arrivalTime=23, serviceTime=1); (ID=9, arrivalTime=25, serviceTime=5);
+Time 27
+Waiting clients: (ID=36, arrivalTime=28, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=5);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=3); (ID=19, arrivalTime=26, serviceTime=4);
+Queue 3: (ID=46, arrivalTime=23, serviceTime=4);
+Queue 4: (ID=16, arrivalTime=23, serviceTime=2); (ID=10, arrivalTime=25, serviceTime=1); (ID=37, arrivalTime=26, serviceTime=4);
+Queue 5: (ID=9, arrivalTime=25, serviceTime=5);
+Time 28
+Waiting clients: (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=4);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=2); (ID=19, arrivalTime=26, serviceTime=4);
+Queue 3: (ID=46, arrivalTime=23, serviceTime=3); (ID=36, arrivalTime=28, serviceTime=2);
+Queue 4: (ID=16, arrivalTime=23, serviceTime=1); (ID=10, arrivalTime=25, serviceTime=1); (ID=37, arrivalTime=26, serviceTime=4);
+Queue 5: (ID=9, arrivalTime=25, serviceTime=4);
+Time 29
+Waiting clients: (ID=4, arrivalTime=30, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6); (ID=30, arrivalTime=30, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=3);
+Queue 2: (ID=5, arrivalTime=22, serviceTime=1); (ID=19, arrivalTime=26, serviceTime=4);
+Queue 3: (ID=46, arrivalTime=23, serviceTime=2); (ID=36, arrivalTime=28, serviceTime=2);
+Queue 4: (ID=10, arrivalTime=25, serviceTime=1); (ID=37, arrivalTime=26, serviceTime=4);
+Queue 5: (ID=9, arrivalTime=25, serviceTime=3);
+Time 30
+Waiting clients: (ID=28, arrivalTime=31, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=2); (ID=4, arrivalTime=30, serviceTime=1); (ID=30, arrivalTime=30, serviceTime=1);
+Queue 2: (ID=19, arrivalTime=26, serviceTime=4);
+Queue 3: (ID=46, arrivalTime=23, serviceTime=1); (ID=36, arrivalTime=28, serviceTime=2);
+Queue 4: (ID=37, arrivalTime=26, serviceTime=4);
+Queue 5: (ID=9, arrivalTime=25, serviceTime=2); (ID=11, arrivalTime=30, serviceTime=6);
+Time 31
+Waiting clients: (ID=1, arrivalTime=32, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2); (ID=15, arrivalTime=32, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3); (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=34, arrivalTime=23, serviceTime=1); (ID=4, arrivalTime=30, serviceTime=1); (ID=30, arrivalTime=30, serviceTime=1);
+Queue 2: (ID=19, arrivalTime=26, serviceTime=3);
+Queue 3: (ID=36, arrivalTime=28, serviceTime=2); (ID=28, arrivalTime=31, serviceTime=1);
+Queue 4: (ID=37, arrivalTime=26, serviceTime=3);
+Queue 5: (ID=9, arrivalTime=25, serviceTime=1); (ID=11, arrivalTime=30, serviceTime=6);
+Time 32
+Waiting clients: (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=4, arrivalTime=30, serviceTime=1); (ID=30, arrivalTime=30, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2);
+Queue 2: (ID=19, arrivalTime=26, serviceTime=2); (ID=12, arrivalTime=32, serviceTime=2);
+Queue 3: (ID=36, arrivalTime=28, serviceTime=1); (ID=28, arrivalTime=31, serviceTime=1); (ID=15, arrivalTime=32, serviceTime=2);
+Queue 4: (ID=37, arrivalTime=26, serviceTime=2); (ID=24, arrivalTime=32, serviceTime=3);
+Queue 5: (ID=11, arrivalTime=30, serviceTime=6);
+Time 33
+Waiting clients: (ID=31, arrivalTime=34, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=30, arrivalTime=30, serviceTime=1); (ID=1, arrivalTime=32, serviceTime=2);
+Queue 2: (ID=19, arrivalTime=26, serviceTime=1); (ID=12, arrivalTime=32, serviceTime=2);
+Queue 3: (ID=28, arrivalTime=31, serviceTime=1); (ID=15, arrivalTime=32, serviceTime=2);
+Queue 4: (ID=37, arrivalTime=26, serviceTime=1); (ID=24, arrivalTime=32, serviceTime=3);
+Queue 5: (ID=11, arrivalTime=30, serviceTime=5);
+Time 34
+Waiting clients: (ID=6, arrivalTime=35, serviceTime=1); (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=1, arrivalTime=32, serviceTime=2); (ID=31, arrivalTime=34, serviceTime=1);
+Queue 2: (ID=12, arrivalTime=32, serviceTime=2);
+Queue 3: (ID=15, arrivalTime=32, serviceTime=2);
+Queue 4: (ID=24, arrivalTime=32, serviceTime=3);
+Queue 5: (ID=11, arrivalTime=30, serviceTime=4);
+Time 35
+Waiting clients: (ID=49, arrivalTime=36, serviceTime=2); (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=1, arrivalTime=32, serviceTime=1); (ID=31, arrivalTime=34, serviceTime=1);
+Queue 2: (ID=12, arrivalTime=32, serviceTime=1); (ID=6, arrivalTime=35, serviceTime=1);
+Queue 3: (ID=15, arrivalTime=32, serviceTime=1);
+Queue 4: (ID=24, arrivalTime=32, serviceTime=2);
+Queue 5: (ID=11, arrivalTime=30, serviceTime=3);
+Time 36
+Waiting clients: (ID=18, arrivalTime=37, serviceTime=6); (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=31, arrivalTime=34, serviceTime=1);
+Queue 2: (ID=6, arrivalTime=35, serviceTime=1);
+Queue 3: (ID=49, arrivalTime=36, serviceTime=2);
+Queue 4: (ID=24, arrivalTime=32, serviceTime=1);
+Queue 5: (ID=11, arrivalTime=30, serviceTime=2);
+Time 37
+Waiting clients: (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=18, arrivalTime=37, serviceTime=6);
+Queue 2: closed
+Queue 3: (ID=49, arrivalTime=36, serviceTime=2);
+Queue 4: closed
+Queue 5: (ID=11, arrivalTime=30, serviceTime=1);
+Time 38
+Waiting clients: (ID=27, arrivalTime=39, serviceTime=2); (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=18, arrivalTime=37, serviceTime=5);
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 39
+Waiting clients: (ID=23, arrivalTime=40, serviceTime=3); (ID=25, arrivalTime=40, serviceTime=4);
+Queue 1: (ID=18, arrivalTime=37, serviceTime=4);
+Queue 2: (ID=27, arrivalTime=39, serviceTime=2);
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Time 40
+Waiting clients:
+Queue 1: (ID=18, arrivalTime=37, serviceTime=3);
+Queue 2: (ID=27, arrivalTime=39, serviceTime=1);
+Queue 3: (ID=23, arrivalTime=40, serviceTime=3);
+Queue 4: (ID=25, arrivalTime=40, serviceTime=4);
+Queue 5: closed
+Time 41
+Waiting clients:
+Queue 1: (ID=18, arrivalTime=37, serviceTime=2);
+Queue 2: closed
+Queue 3: (ID=23, arrivalTime=40, serviceTime=2);
+Queue 4: (ID=25, arrivalTime=40, serviceTime=3);
+Queue 5: closed
+Time 42
+Waiting clients:
+Queue 1: (ID=18, arrivalTime=37, serviceTime=1);
+Queue 2: closed
+Queue 3: (ID=23, arrivalTime=40, serviceTime=1);
+Queue 4: (ID=25, arrivalTime=40, serviceTime=2);
+Queue 5: closed
+Time 43
+Waiting clients:
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: (ID=25, arrivalTime=40, serviceTime=1);
+Queue 5: closed
+Time 44
+Waiting clients:
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+Average Service Time: 3.5490093
+Peak Hour: 32
+Average Waiting Time: 1.8
